@@ -1,6 +1,6 @@
 # YouTube Popout
 
-Adds a pop-out button beside YouTube’s Settings gear. Click it for an always-on-top picture-in-picture player. Uses Lucide outline icons. No tracking or extra permissions.
+Adds a pop-out button beside YouTube’s Settings gear. Click it for an always-on-top player with volume, mute, and play/pause controls (Chrome 116+). Uses Lucide outline icons. No tracking or extra permissions.
 
 ## Install in Chrome
 
